@@ -6,7 +6,7 @@
 
 🔹 Experienced in:
 
-**💻 Python Programming| 📊 Data Analysis | 🤖 Machine Learning | 🧠 Deep Learning | 🔥 LLMs | 🗣️ NLP**
+**💻 Python Programming | 📊 Data Analysis | 🤖 Machine Learning | 🧠 Deep Learning | 🔥 LLMs | 🗣️ NLP**
 
 💬 **Let's connect!**
 
