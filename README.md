@@ -8,9 +8,9 @@
 
 🔹 Experienced in:
 
-** 📊 Data Analysis | 🤖 Machine Learning | 🧠 Deep Learning | 🔥 LLMs | 🗣️ NLP **
+**📊 Data Analysis | 🤖 Machine Learning | 🧠 Deep Learning | 🔥 LLMs | 🗣️ NLP**
 
 💬 **Let's connect!**
 
-[![LinkedIn](www.linkedin.com/in/farah-m-saleh)]
+[[LinkedIn](www.linkedin.com/in/farah-m-saleh)]
 
