@@ -1,5 +1,4 @@
 ## Hi there , Iam Farah Saleh 👋
-
 <!--  
 📊 Machine Learning Engineer 
 📚 Student at An-Najah National University - AI
