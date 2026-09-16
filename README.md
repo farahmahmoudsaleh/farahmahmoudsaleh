@@ -2,7 +2,7 @@
 
 📊 Machine Learning Engineer 
 
-📚 Student at An-Najah National University - AI
+📚 An-Najah National University - AI
 
 🔹 Experienced in:
 
